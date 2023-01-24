@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB Smart Garden.PcbDoc   23/03/2022  9:52:21
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB Smart Garden.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             24        PTH        6.97inch (177.04mm)
+T2      39mil (1.001mm)                                           Round             3         PTH        0.20inch (5.00mm)
+T3      40mil (1.021mm)                                           Round             41        PTH        6.21inch (157.71mm)
+T4      43mil (1.1mm)                                             Round             12        PTH        3.36inch (85.29mm)
+T5      51mil (1.3mm)                                             Round             6         PTH        2.26inch (57.33mm)
+T6      126mil (3.2mm)                                            Round             2         PTH        1.55inch (39.50mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              88
+
+Total Processing Time (hh:mm:ss) : 00:00:00

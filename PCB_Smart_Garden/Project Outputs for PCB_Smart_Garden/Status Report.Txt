@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PCB_Smart_Garden.PrjPcb]
+   Generated File[PCB Smart Garden.TXT]
+   Generated File[PCB Smart Garden.LDP]
+   Generated File[PCB Smart Garden.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:52:21 On 23/03/2022
